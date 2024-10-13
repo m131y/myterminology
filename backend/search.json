@@ -1,0 +1,11154 @@
+[
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1,
+      "search_word": "[",
+      "search_pos": "SS"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 2,
+      "search_word": "서울",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 3,
+      "search_word": "=",
+      "search_pos": "SW"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 4,
+      "search_word": "뉴",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 5,
+      "search_word": "시스",
+      "search_pos": "NNP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 6,
+      "search_word": "]",
+      "search_pos": "SS"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 7,
+      "search_word": "조성",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 8,
+      "search_word": "우",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 9,
+      "search_word": "문",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 10,
+      "search_word": "성대",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 11,
+      "search_word": "김",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 12,
+      "search_word": "명년",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 13,
+      "search_word": "기자",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 14,
+      "search_word": "=",
+      "search_pos": "SW"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 15,
+      "search_word": "류",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 16,
+      "search_word": "현진",
+      "search_pos": "NNP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 17,
+      "search_word": "(",
+      "search_pos": "SS"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 18,
+      "search_word": "37",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 19,
+      "search_word": "·",
+      "search_pos": "SP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 20,
+      "search_word": "한화",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 21,
+      "search_word": "이",
+      "search_pos": "MDT"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 22,
+      "search_word": "글스",
+      "search_pos": "UN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 23,
+      "search_word": ")",
+      "search_pos": "SS"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 24,
+      "search_word": "이",
+      "search_pos": "MDT"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 25,
+      "search_word": "'",
+      "search_pos": "SS"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 26,
+      "search_word": "왕",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 27,
+      "search_word": "의",
+      "search_pos": "JKG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 28,
+      "search_word": "귀환",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 29,
+      "search_word": "'",
+      "search_pos": "SS"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 30,
+      "search_word": "을",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 31,
+      "search_word": "알리",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 32,
+      "search_word": "었",
+      "search_pos": "EPT"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 33,
+      "search_word": "다",
+      "search_pos": "EFN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 34,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 35,
+      "search_word": "류",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 36,
+      "search_word": "현진",
+      "search_pos": "NNP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 37,
+      "search_word": "은",
+      "search_pos": "JX"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 38,
+      "search_word": "11",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 39,
+      "search_word": "일",
+      "search_pos": "NNM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 40,
+      "search_word": "잠실",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 41,
+      "search_word": "구장",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 42,
+      "search_word": "에서",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 43,
+      "search_word": "열리",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 44,
+      "search_word": "ㄴ",
+      "search_pos": "ETD"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 45,
+      "search_word": "'",
+      "search_pos": "SS"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 46,
+      "search_word": "2024",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 47,
+      "search_word": "신한",
+      "search_pos": "NNP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 48,
+      "search_word": "쏘",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 49,
+      "search_word": "ㄹ",
+      "search_pos": "ETD"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 50,
+      "search_word": "뱅크",
+      "search_pos": "NNP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 51,
+      "search_word": "KBO",
+      "search_pos": "OL"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 52,
+      "search_word": "리그",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 53,
+      "search_word": "'",
+      "search_pos": "SS"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 54,
+      "search_word": "두",
+      "search_pos": "MDN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 55,
+      "search_word": "산",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 56,
+      "search_word": "베",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 57,
+      "search_word": "어스",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 58,
+      "search_word": "와",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 59,
+      "search_word": "의",
+      "search_pos": "JKG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 60,
+      "search_word": "원정",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 61,
+      "search_word": "경기",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 62,
+      "search_word": "에",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 63,
+      "search_word": "선발",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 64,
+      "search_word": "등판",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 65,
+      "search_word": ",",
+      "search_pos": "SP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 66,
+      "search_word": "6",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 67,
+      "search_word": "이닝",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 68,
+      "search_word": "1",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 69,
+      "search_word": "피",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 70,
+      "search_word": "안타",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 71,
+      "search_word": "2",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 72,
+      "search_word": "볼넷",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 73,
+      "search_word": "8",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 74,
+      "search_word": "타",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 75,
+      "search_word": "ㄹ",
+      "search_pos": "ETD"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 76,
+      "search_word": "삼진",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 77,
+      "search_word": "무실점",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 78,
+      "search_word": "역투",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 79,
+      "search_word": "로",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 80,
+      "search_word": "승리",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 81,
+      "search_word": "투수",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 82,
+      "search_word": "가",
+      "search_pos": "JKC"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 83,
+      "search_word": "되",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 84,
+      "search_word": "었",
+      "search_pos": "EPT"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 85,
+      "search_word": "다",
+      "search_pos": "EFN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 86,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 87,
+      "search_word": "지난해",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 88,
+      "search_word": "까지",
+      "search_pos": "JX"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 89,
+      "search_word": "미국",
+      "search_pos": "NNP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 90,
+      "search_word": "프로",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 91,
+      "search_word": "야구",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 92,
+      "search_word": "메이저",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 93,
+      "search_word": "리그",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 94,
+      "search_word": "(",
+      "search_pos": "SS"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 95,
+      "search_word": "MLB",
+      "search_pos": "OL"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 96,
+      "search_word": ")",
+      "search_pos": "SS"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 97,
+      "search_word": "에서",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 98,
+      "search_word": "활약",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 99,
+      "search_word": "하",
+      "search_pos": "XSV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 100,
+      "search_word": "었",
+      "search_pos": "EPT"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 101,
+      "search_word": "던",
+      "search_pos": "EFQ"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 102,
+      "search_word": "류",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 103,
+      "search_word": "현진",
+      "search_pos": "NNP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 104,
+      "search_word": "은",
+      "search_pos": "JX"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 105,
+      "search_word": "올해",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 106,
+      "search_word": "초",
+      "search_pos": "NNB"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 107,
+      "search_word": "한화",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 108,
+      "search_word": "로",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 109,
+      "search_word": "복귀",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 110,
+      "search_word": "하",
+      "search_pos": "XSV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 111,
+      "search_word": "었",
+      "search_pos": "EPT"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 112,
+      "search_word": "다",
+      "search_pos": "EFN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 113,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 114,
+      "search_word": "하",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 115,
+      "search_word": "지만",
+      "search_pos": "ECE"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 116,
+      "search_word": "복귀",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 117,
+      "search_word": "후",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 118,
+      "search_word": "3",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 119,
+      "search_word": "경기",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 120,
+      "search_word": "에서",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 121,
+      "search_word": "승리",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 122,
+      "search_word": "없이",
+      "search_pos": "MAG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 123,
+      "search_word": "2",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 124,
+      "search_word": "패",
+      "search_pos": "NNM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 125,
+      "search_word": "만",
+      "search_pos": "JX"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 126,
+      "search_word": "기록하",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 127,
+      "search_word": "었",
+      "search_pos": "EPT"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 128,
+      "search_word": "다",
+      "search_pos": "EFN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 129,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 130,
+      "search_word": "앞서",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 131,
+      "search_word": "ㄴ",
+      "search_pos": "ETD"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 132,
+      "search_word": "경기",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 133,
+      "search_word": "에서",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 134,
+      "search_word": "는",
+      "search_pos": "JX"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 135,
+      "search_word": "갑자기",
+      "search_pos": "MAG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 136,
+      "search_word": "구위",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 137,
+      "search_word": "가",
+      "search_pos": "JKS"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 138,
+      "search_word": "흔들리",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 139,
+      "search_word": "고",
+      "search_pos": "ECE"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 140,
+      "search_word": ",",
+      "search_pos": "SP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 141,
+      "search_word": "상대",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 142,
+      "search_word": "타자",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 143,
+      "search_word": "에게",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 144,
+      "search_word": "패턴",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 145,
+      "search_word": "이",
+      "search_pos": "JKS"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 146,
+      "search_word": "읽히",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 147,
+      "search_word": "어",
+      "search_pos": "ECS"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 148,
+      "search_word": "집중",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 149,
+      "search_word": "타",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 150,
+      "search_word": "를",
+      "search_pos": "JKO"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 151,
+      "search_word": "맞",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 152,
+      "search_word": "기",
+      "search_pos": "ETN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 153,
+      "search_word": "일쑤",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 154,
+      "search_word": "이",
+      "search_pos": "VCP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 155,
+      "search_word": "었",
+      "search_pos": "EPT"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 156,
+      "search_word": "다",
+      "search_pos": "EFN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 157,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 158,
+      "search_word": "하지만",
+      "search_pos": "MAC"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 159,
+      "search_word": "이날",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 160,
+      "search_word": "경기",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 161,
+      "search_word": "에서",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 162,
+      "search_word": "는",
+      "search_pos": "JX"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 163,
+      "search_word": "달르",
+      "search_pos": "VA"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 164,
+      "search_word": "았",
+      "search_pos": "EPT"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 165,
+      "search_word": "다",
+      "search_pos": "EFN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 166,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 167,
+      "search_word": "제구",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 168,
+      "search_word": "력",
+      "search_pos": "XSN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 169,
+      "search_word": "이",
+      "search_pos": "JKS"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 170,
+      "search_word": "동반",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 171,
+      "search_word": "되",
+      "search_pos": "XSV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 172,
+      "search_word": "ㄴ",
+      "search_pos": "ETD"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 173,
+      "search_word": "날카롭",
+      "search_pos": "VA"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 174,
+      "search_word": "ㄴ",
+      "search_pos": "ETD"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 175,
+      "search_word": "직구",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 176,
+      "search_word": "와",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 177,
+      "search_word": "함께",
+      "search_pos": "MAG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 178,
+      "search_word": "커터",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 179,
+      "search_word": ",",
+      "search_pos": "SP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 180,
+      "search_word": "체인지업",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 181,
+      "search_word": ",",
+      "search_pos": "SP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 182,
+      "search_word": "커브",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 183,
+      "search_word": "등",
+      "search_pos": "NNB"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 184,
+      "search_word": "자신",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 185,
+      "search_word": "이",
+      "search_pos": "JKS"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 186,
+      "search_word": "가지",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 187,
+      "search_word": "ㄴ",
+      "search_pos": "ETD"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 188,
+      "search_word": "구종",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 189,
+      "search_word": "을",
+      "search_pos": "JKO"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 190,
+      "search_word": "모두",
+      "search_pos": "MAG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 191,
+      "search_word": "던지",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 192,
+      "search_word": "며",
+      "search_pos": "ECE"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 193,
+      "search_word": "베테랑",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 194,
+      "search_word": "타자",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 195,
+      "search_word": "들",
+      "search_pos": "XSN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 196,
+      "search_word": "로",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 197,
+      "search_word": "구성",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 198,
+      "search_word": "되",
+      "search_pos": "XSV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 199,
+      "search_word": "ㄴ",
+      "search_pos": "ETD"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 200,
+      "search_word": "두",
+      "search_pos": "MDN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 201,
+      "search_word": "산",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 202,
+      "search_word": "타선",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 203,
+      "search_word": "을",
+      "search_pos": "JKO"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 204,
+      "search_word": "완벽",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 205,
+      "search_word": "하",
+      "search_pos": "XSV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 206,
+      "search_word": "게",
+      "search_pos": "ECD"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 207,
+      "search_word": "막아내",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 208,
+      "search_word": "었",
+      "search_pos": "EPT"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 209,
+      "search_word": "다",
+      "search_pos": "EFN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 210,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 211,
+      "search_word": "한화",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 212,
+      "search_word": "주전",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 213,
+      "search_word": "포수",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 214,
+      "search_word": "최",
+      "search_pos": "NNP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 215,
+      "search_word": "재",
+      "search_pos": "XPN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 216,
+      "search_word": "훈도",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 217,
+      "search_word": "류",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 218,
+      "search_word": "현진",
+      "search_pos": "NNP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 219,
+      "search_word": "을",
+      "search_pos": "JKO"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 220,
+      "search_word": "잘",
+      "search_pos": "MAG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 221,
+      "search_word": "리드",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 222,
+      "search_word": "하",
+      "search_pos": "XSV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 223,
+      "search_word": "어",
+      "search_pos": "ECS"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 224,
+      "search_word": "호투",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 225,
+      "search_word": "를",
+      "search_pos": "JKO"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 226,
+      "search_word": "거들",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 227,
+      "search_word": "었",
+      "search_pos": "EPT"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 228,
+      "search_word": "다",
+      "search_pos": "EFN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 229,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 230,
+      "search_word": "류",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 231,
+      "search_word": "현진",
+      "search_pos": "NNP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 232,
+      "search_word": "은",
+      "search_pos": "JX"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 233,
+      "search_word": "시즌",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 234,
+      "search_word": "첫",
+      "search_pos": "MDT"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 235,
+      "search_word": "승",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 236,
+      "search_word": "이자",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 237,
+      "search_word": "통산",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 238,
+      "search_word": "99",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 239,
+      "search_word": "번째",
+      "search_pos": "NNB"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 240,
+      "search_word": "승리",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 241,
+      "search_word": "를",
+      "search_pos": "JKO"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 242,
+      "search_word": "달성",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 243,
+      "search_word": "하",
+      "search_pos": "XSV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 244,
+      "search_word": "었",
+      "search_pos": "EPT"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 245,
+      "search_word": "다",
+      "search_pos": "EFN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 246,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 247,
+      "search_word": "2012",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 248,
+      "search_word": "년",
+      "search_pos": "NNM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 249,
+      "search_word": "9",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 250,
+      "search_word": "월",
+      "search_pos": "NNM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 251,
+      "search_word": "25",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 252,
+      "search_word": "일",
+      "search_pos": "NNM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 253,
+      "search_word": "잠실",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 254,
+      "search_word": "두",
+      "search_pos": "MDN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 255,
+      "search_word": "산전",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 256,
+      "search_word": "에서",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 257,
+      "search_word": "승리",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 258,
+      "search_word": "투수",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 259,
+      "search_word": "가",
+      "search_pos": "JKC"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 260,
+      "search_word": "되",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 261,
+      "search_word": "ㄴ",
+      "search_pos": "ETD"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 262,
+      "search_word": "이후",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 263,
+      "search_word": "약",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 264,
+      "search_word": "11",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 265,
+      "search_word": "년",
+      "search_pos": "NNM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 266,
+      "search_word": "7",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 267,
+      "search_word": "개월",
+      "search_pos": "NNM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 268,
+      "search_word": "만",
+      "search_pos": "NNB"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 269,
+      "search_word": "에",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 270,
+      "search_word": "승리",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 271,
+      "search_word": "의",
+      "search_pos": "JKG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 272,
+      "search_word": "영예",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 273,
+      "search_word": "를",
+      "search_pos": "JKO"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 274,
+      "search_word": "안",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 275,
+      "search_word": "았",
+      "search_pos": "EPT"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 276,
+      "search_word": "다",
+      "search_pos": "EFN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 277,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 278,
+      "search_word": "이제",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 279,
+      "search_word": "100",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 280,
+      "search_word": "승",
+      "search_pos": "NNM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 281,
+      "search_word": "을",
+      "search_pos": "JKO"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 282,
+      "search_word": "바라보",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 283,
+      "search_word": "고",
+      "search_pos": "ECE"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 284,
+      "search_word": "있",
+      "search_pos": "VXV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 285,
+      "search_word": "다",
+      "search_pos": "EFN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 286,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 287,
+      "search_word": "류",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 288,
+      "search_word": "현진",
+      "search_pos": "NNP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 289,
+      "search_word": "은",
+      "search_pos": "JX"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 290,
+      "search_word": "8.36",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 291,
+      "search_word": "까지",
+      "search_pos": "JX"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 292,
+      "search_word": "치솟",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 293,
+      "search_word": "았",
+      "search_pos": "EPT"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 294,
+      "search_word": "더",
+      "search_pos": "EPT"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 295,
+      "search_word": "ㄴ",
+      "search_pos": "ETD"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 296,
+      "search_word": "평균",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 297,
+      "search_word": "자책점",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 298,
+      "search_word": "을",
+      "search_pos": "JKO"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 299,
+      "search_word": "5.85",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 300,
+      "search_word": "로",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 301,
+      "search_word": "끌어내리",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 302,
+      "search_word": "었",
+      "search_pos": "EPT"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 303,
+      "search_word": "다",
+      "search_pos": "EFN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 304,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 305,
+      "search_word": "1",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 306,
+      "search_word": "회",
+      "search_pos": "NNM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 307,
+      "search_word": "말",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 308,
+      "search_word": "삼자",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 309,
+      "search_word": "범퇴",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 310,
+      "search_word": "로",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 311,
+      "search_word": "이닝",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 312,
+      "search_word": "을",
+      "search_pos": "JKO"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 313,
+      "search_word": "막아내",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 314,
+      "search_word": "ㄴ",
+      "search_pos": "ETD"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 315,
+      "search_word": "류",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 316,
+      "search_word": "현진",
+      "search_pos": "NNP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 317,
+      "search_word": "은",
+      "search_pos": "JX"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 318,
+      "search_word": "2",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 319,
+      "search_word": "회",
+      "search_pos": "NNM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 320,
+      "search_word": "두",
+      "search_pos": "MDN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 321,
+      "search_word": "산",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 322,
+      "search_word": "타자",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 323,
+      "search_word": "중",
+      "search_pos": "NNB"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 324,
+      "search_word": "타격",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 325,
+      "search_word": "감",
+      "search_pos": "XSN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 326,
+      "search_word": "이",
+      "search_pos": "JKS"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 327,
+      "search_word": "좋",
+      "search_pos": "VA"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 328,
+      "search_word": "은",
+      "search_pos": "ETD"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 329,
+      "search_word": "김",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 330,
+      "search_word": "재환",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 331,
+      "search_word": "을",
+      "search_pos": "JKO"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 332,
+      "search_word": "중견수",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 333,
+      "search_word": "뜨",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 334,
+      "search_word": "ㄴ",
+      "search_pos": "ETD"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 335,
+      "search_word": "공",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 336,
+      "search_word": "으로",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 337,
+      "search_word": "처리",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 338,
+      "search_word": "하",
+      "search_pos": "XSV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 339,
+      "search_word": "ㄴ",
+      "search_pos": "ETD"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 340,
+      "search_word": "후",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 341,
+      "search_word": "강",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 342,
+      "search_word": "승호",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 343,
+      "search_word": "마저",
+      "search_pos": "JX"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 344,
+      "search_word": "삼진",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 345,
+      "search_word": "으로",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 346,
+      "search_word": "잡아내",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 347,
+      "search_word": "었",
+      "search_pos": "EPT"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 348,
+      "search_word": "다",
+      "search_pos": "EFN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 349,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 350,
+      "search_word": "잇",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 351,
+      "search_word": "어",
+      "search_pos": "ECD"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 352,
+      "search_word": "양석",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 353,
+      "search_word": "환",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 354,
+      "search_word": "에게",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 355,
+      "search_word": "볼넷",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 356,
+      "search_word": "을",
+      "search_pos": "JKO"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 357,
+      "search_word": "내주",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 358,
+      "search_word": "었",
+      "search_pos": "EPT"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 359,
+      "search_word": "지만",
+      "search_pos": "ECE"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 360,
+      "search_word": ",",
+      "search_pos": "SP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 361,
+      "search_word": "박",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 362,
+      "search_word": "준영",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 363,
+      "search_word": "을",
+      "search_pos": "JKO"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 364,
+      "search_word": "삼진",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 365,
+      "search_word": "으로",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 366,
+      "search_word": "처리",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 367,
+      "search_word": "하",
+      "search_pos": "XSV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 368,
+      "search_word": "고",
+      "search_pos": "ECE"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 369,
+      "search_word": "무실점",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 370,
+      "search_word": "행진",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 371,
+      "search_word": "을",
+      "search_pos": "JKO"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 372,
+      "search_word": "잇",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 373,
+      "search_word": "어",
+      "search_pos": "ECD"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 374,
+      "search_word": "가",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 375,
+      "search_word": "었",
+      "search_pos": "EPT"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 376,
+      "search_word": "다",
+      "search_pos": "EFN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 377,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 378,
+      "search_word": "류",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 379,
+      "search_word": "현진",
+      "search_pos": "NNP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 380,
+      "search_word": "은",
+      "search_pos": "JX"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 381,
+      "search_word": "3",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 382,
+      "search_word": "회",
+      "search_pos": "NNM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 383,
+      "search_word": "장승",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 384,
+      "search_word": "현과",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 385,
+      "search_word": "김",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 386,
+      "search_word": "태",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 387,
+      "search_word": "근",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 388,
+      "search_word": "을",
+      "search_pos": "JKO"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 389,
+      "search_word": "삼진",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 390,
+      "search_word": "으로",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 391,
+      "search_word": "처리",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 392,
+      "search_word": "하",
+      "search_pos": "XSV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 393,
+      "search_word": "는",
+      "search_pos": "ETD"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 394,
+      "search_word": "등",
+      "search_pos": "NNB"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 395,
+      "search_word": "노",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 396,
+      "search_word": "히트",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 397,
+      "search_word": "피칭",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 398,
+      "search_word": "을",
+      "search_pos": "JKO"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 399,
+      "search_word": "펼치",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 400,
+      "search_word": "었",
+      "search_pos": "EPT"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 401,
+      "search_word": "다",
+      "search_pos": "EFN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 402,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 403,
+      "search_word": "2-0",
+      "search_pos": "OL"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 404,
+      "search_word": "으로",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 405,
+      "search_word": "앞서",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 406,
+      "search_word": "ㄴ",
+      "search_pos": "ETD"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 407,
+      "search_word": "4",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 408,
+      "search_word": "회",
+      "search_pos": "NNM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 409,
+      "search_word": "마운드",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 410,
+      "search_word": "에",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 411,
+      "search_word": "오르",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 412,
+      "search_word": "ㄴ",
+      "search_pos": "ETD"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 413,
+      "search_word": "류",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 414,
+      "search_word": "현진",
+      "search_pos": "NNP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 415,
+      "search_word": "은",
+      "search_pos": "JX"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 416,
+      "search_word": "허경",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 417,
+      "search_word": "민",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 418,
+      "search_word": "을",
+      "search_pos": "JKO"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 419,
+      "search_word": "바깥쪽",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 420,
+      "search_word": "으로",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 421,
+      "search_word": "날카롭",
+      "search_pos": "VA"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 422,
+      "search_word": "게",
+      "search_pos": "ECD"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 423,
+      "search_word": "떨어지",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 424,
+      "search_word": "는",
+      "search_pos": "ETD"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 425,
+      "search_word": "체인지업",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 426,
+      "search_word": "으로",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 427,
+      "search_word": "삼진",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 428,
+      "search_word": "을",
+      "search_pos": "JKO"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 429,
+      "search_word": "유도",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 430,
+      "search_word": "하",
+      "search_pos": "XSV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 431,
+      "search_word": "었",
+      "search_pos": "EPT"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 432,
+      "search_word": "다",
+      "search_pos": "EFN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 433,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 434,
+      "search_word": "잇",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 435,
+      "search_word": "어",
+      "search_pos": "ECD"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 436,
+      "search_word": "양",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 437,
+      "search_word": "의지",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 438,
+      "search_word": "를",
+      "search_pos": "JKO"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 439,
+      "search_word": "2",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 440,
+      "search_word": "루",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 441,
+      "search_word": "수",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 442,
+      "search_word": "땅볼",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 443,
+      "search_word": "로",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 444,
+      "search_word": "처리",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 445,
+      "search_word": "하",
+      "search_pos": "XSV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 446,
+      "search_word": "었",
+      "search_pos": "EPT"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 447,
+      "search_word": "다",
+      "search_pos": "EFN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 448,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 449,
+      "search_word": "류",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 450,
+      "search_word": "현진",
+      "search_pos": "NNP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 451,
+      "search_word": "은",
+      "search_pos": "JX"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 452,
+      "search_word": "4",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 453,
+      "search_word": "회",
+      "search_pos": "NNM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 454,
+      "search_word": "2",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 455,
+      "search_word": "사",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 456,
+      "search_word": "후",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 457,
+      "search_word": "김",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 458,
+      "search_word": "재환",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 459,
+      "search_word": "을",
+      "search_pos": "JKO"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 460,
+      "search_word": "볼넷",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 461,
+      "search_word": "으로",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 462,
+      "search_word": "내보내",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 463,
+      "search_word": "었",
+      "search_pos": "EPT"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 464,
+      "search_word": "지만",
+      "search_pos": "ECE"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 465,
+      "search_word": ",",
+      "search_pos": "SP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 466,
+      "search_word": "강",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 467,
+      "search_word": "승호",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 468,
+      "search_word": "를",
+      "search_pos": "JKO"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 469,
+      "search_word": "상대",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 470,
+      "search_word": "로",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 471,
+      "search_word": "체인지업",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 472,
+      "search_word": "-",
+      "search_pos": "SW"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 473,
+      "search_word": "커브",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 474,
+      "search_word": "조합",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 475,
+      "search_word": "으로",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 476,
+      "search_word": "헛",
+      "search_pos": "XPN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 477,
+      "search_word": "스윙",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 478,
+      "search_word": "삼진",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 479,
+      "search_word": "을",
+      "search_pos": "JKO"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 480,
+      "search_word": "이끌어내",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 481,
+      "search_word": "었",
+      "search_pos": "EPT"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 482,
+      "search_word": "다",
+      "search_pos": "EFN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 483,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 484,
+      "search_word": "4",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 485,
+      "search_word": "회",
+      "search_pos": "NNM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 486,
+      "search_word": "까지",
+      "search_pos": "JX"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 487,
+      "search_word": "노",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 488,
+      "search_word": "히트",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 489,
+      "search_word": "피칭",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 490,
+      "search_word": "을",
+      "search_pos": "JKO"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 491,
+      "search_word": "선보이",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 492,
+      "search_word": "ㄴ",
+      "search_pos": "ETD"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 493,
+      "search_word": "류",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 494,
+      "search_word": "현진",
+      "search_pos": "NNP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 495,
+      "search_word": "은",
+      "search_pos": "JX"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 496,
+      "search_word": "5",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 497,
+      "search_word": "회",
+      "search_pos": "NNM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 498,
+      "search_word": "2",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 499,
+      "search_word": "사",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 500,
+      "search_word": "후",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 501,
+      "search_word": "김",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 502,
+      "search_word": "기연",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 503,
+      "search_word": "에게",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 504,
+      "search_word": "첫",
+      "search_pos": "MDT"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 505,
+      "search_word": "안타",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 506,
+      "search_word": "를",
+      "search_pos": "JKO"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 507,
+      "search_word": "허용",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 508,
+      "search_word": "하",
+      "search_pos": "XSV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 509,
+      "search_word": "었",
+      "search_pos": "EPT"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 510,
+      "search_word": "다",
+      "search_pos": "EFN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 511,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 512,
+      "search_word": "잇",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 513,
+      "search_word": "어",
+      "search_pos": "ECD"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 514,
+      "search_word": "김",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 515,
+      "search_word": "대한",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 516,
+      "search_word": "을",
+      "search_pos": "JKO"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 517,
+      "search_word": "상대",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 518,
+      "search_word": "로",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 519,
+      "search_word": "9",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 520,
+      "search_word": "구",
+      "search_pos": "NNM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 521,
+      "search_word": "까지",
+      "search_pos": "JX"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 522,
+      "search_word": "갈",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 523,
+      "search_word": "는",
+      "search_pos": "ETD"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 524,
+      "search_word": "승부",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 525,
+      "search_word": "끝",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 526,
+      "search_word": "에",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 527,
+      "search_word": "헛",
+      "search_pos": "XPN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 528,
+      "search_word": "스윙",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 529,
+      "search_word": "삼진",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 530,
+      "search_word": "을",
+      "search_pos": "JKO"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 531,
+      "search_word": "잡아내",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 532,
+      "search_word": "었",
+      "search_pos": "EPT"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 533,
+      "search_word": "다",
+      "search_pos": "EFN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 534,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 535,
+      "search_word": "류",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 536,
+      "search_word": "현진",
+      "search_pos": "NNP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 537,
+      "search_word": "은",
+      "search_pos": "JX"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 538,
+      "search_word": "2-0",
+      "search_pos": "OL"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 539,
+      "search_word": "으로",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 540,
+      "search_word": "리드",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 541,
+      "search_word": "하",
+      "search_pos": "XSV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 542,
+      "search_word": "ㄴ",
+      "search_pos": "ETD"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 543,
+      "search_word": "6",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 544,
+      "search_word": "회",
+      "search_pos": "NNM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 545,
+      "search_word": "크",
+      "search_pos": "VA"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 546,
+      "search_word": "ㄴ",
+      "search_pos": "ETD"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 547,
+      "search_word": "위기",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 548,
+      "search_word": "에",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 549,
+      "search_word": "처하",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 550,
+      "search_word": "었",
+      "search_pos": "EPT"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 551,
+      "search_word": "다",
+      "search_pos": "EFN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 552,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 553,
+      "search_word": "류",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 554,
+      "search_word": "현진",
+      "search_pos": "NNP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 555,
+      "search_word": "은",
+      "search_pos": "JX"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 556,
+      "search_word": "1",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 557,
+      "search_word": "사",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 558,
+      "search_word": "후",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 559,
+      "search_word": "허경",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 560,
+      "search_word": "민",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 561,
+      "search_word": "을",
+      "search_pos": "JKO"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 562,
+      "search_word": "우익수",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 563,
+      "search_word": "뜨",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 564,
+      "search_word": "ㄴ",
+      "search_pos": "ETD"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 565,
+      "search_word": "공",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 566,
+      "search_word": "으로",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 567,
+      "search_word": "유도",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 568,
+      "search_word": "하",
+      "search_pos": "XSV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 569,
+      "search_word": "었",
+      "search_pos": "EPT"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 570,
+      "search_word": "다",
+      "search_pos": "EFN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 571,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 572,
+      "search_word": "하",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 573,
+      "search_word": "지만",
+      "search_pos": "ECE"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 574,
+      "search_word": "한화",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 575,
+      "search_word": "우익수",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 576,
+      "search_word": "요나단",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 577,
+      "search_word": "페라자",
+      "search_pos": "UN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 578,
+      "search_word": "가",
+      "search_pos": "JKS"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 579,
+      "search_word": "평범",
+      "search_pos": "XR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 580,
+      "search_word": "하",
+      "search_pos": "XSA"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 581,
+      "search_word": "ㄴ",
+      "search_pos": "ETD"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 582,
+      "search_word": "뜨",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 583,
+      "search_word": "ㄴ",
+      "search_pos": "ETD"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 584,
+      "search_word": "공",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 585,
+      "search_word": "을",
+      "search_pos": "JKO"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 586,
+      "search_word": "놓치",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 587,
+      "search_word": "는",
+      "search_pos": "ETD"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 588,
+      "search_word": "실책",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 589,
+      "search_word": "을",
+      "search_pos": "JKO"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 590,
+      "search_word": "범하",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 591,
+      "search_word": "었",
+      "search_pos": "EPT"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 592,
+      "search_word": "다",
+      "search_pos": "EFN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 593,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 594,
+      "search_word": "평정",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 595,
+      "search_word": "심",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 596,
+      "search_word": "을",
+      "search_pos": "JKO"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 597,
+      "search_word": "잃",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 598,
+      "search_word": "은",
+      "search_pos": "ETD"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 599,
+      "search_word": "류",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 600,
+      "search_word": "현진",
+      "search_pos": "NNP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 601,
+      "search_word": "은",
+      "search_pos": "JX"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 602,
+      "search_word": "폭투",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 603,
+      "search_word": "를",
+      "search_pos": "JKO"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 604,
+      "search_word": "저지르",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 605,
+      "search_word": "어",
+      "search_pos": "ECS"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 606,
+      "search_word": "허경",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 607,
+      "search_word": "민",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 608,
+      "search_word": "을",
+      "search_pos": "JKO"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 609,
+      "search_word": "2",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 610,
+      "search_word": "루",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 611,
+      "search_word": "로",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 612,
+      "search_word": "보내",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 613,
+      "search_word": "었",
+      "search_pos": "EPT"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 614,
+      "search_word": "다",
+      "search_pos": "EFN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 615,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 616,
+      "search_word": "마음",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 617,
+      "search_word": "을",
+      "search_pos": "JKO"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 618,
+      "search_word": "다잡",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 619,
+      "search_word": "은",
+      "search_pos": "ETD"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 620,
+      "search_word": "류",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 621,
+      "search_word": "현진",
+      "search_pos": "NNP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 622,
+      "search_word": "은",
+      "search_pos": "JX"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 623,
+      "search_word": "양",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 624,
+      "search_word": "의지",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 625,
+      "search_word": "와",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 626,
+      "search_word": "김",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 627,
+      "search_word": "재환",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 628,
+      "search_word": "을",
+      "search_pos": "JKO"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 629,
+      "search_word": "모두",
+      "search_pos": "MAG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 630,
+      "search_word": "우익수",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 631,
+      "search_word": "뜨",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 632,
+      "search_word": "ㄴ",
+      "search_pos": "ETD"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 633,
+      "search_word": "공",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 634,
+      "search_word": "으로",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 635,
+      "search_word": "잡아내",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 636,
+      "search_word": "고",
+      "search_pos": "ECE"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 637,
+      "search_word": "마운드",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 638,
+      "search_word": "를",
+      "search_pos": "JKO"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 639,
+      "search_word": "내려오",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 640,
+      "search_word": "았",
+      "search_pos": "EPT"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 641,
+      "search_word": "다",
+      "search_pos": "EFN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 642,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 643,
+      "search_word": "공교",
+      "search_pos": "XR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 644,
+      "search_word": "롭",
+      "search_pos": "XSA"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 645,
+      "search_word": "게",
+      "search_pos": "ECD"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 646,
+      "search_word": "아웃",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 647,
+      "search_word": "카운트",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 648,
+      "search_word": "2",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 649,
+      "search_word": "개",
+      "search_pos": "NNM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 650,
+      "search_word": "모두",
+      "search_pos": "MAG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 651,
+      "search_word": "페라자",
+      "search_pos": "UN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 652,
+      "search_word": "가",
+      "search_pos": "JKS"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 653,
+      "search_word": "처리",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 654,
+      "search_word": "하",
+      "search_pos": "XSV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 655,
+      "search_word": "었",
+      "search_pos": "EPT"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 656,
+      "search_word": "다",
+      "search_pos": "EFN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 657,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 658,
+      "search_word": "투구",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 659,
+      "search_word": "수",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 660,
+      "search_word": "는",
+      "search_pos": "JX"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 661,
+      "search_word": "94",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 662,
+      "search_word": "개",
+      "search_pos": "NNM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 663,
+      "search_word": "(",
+      "search_pos": "SS"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 664,
+      "search_word": "스트라이크",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 665,
+      "search_word": "67",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 666,
+      "search_word": "개",
+      "search_pos": "NNM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 667,
+      "search_word": ")",
+      "search_pos": "SS"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 668,
+      "search_word": "이",
+      "search_pos": "VCP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 669,
+      "search_word": "었",
+      "search_pos": "EPT"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 670,
+      "search_word": "다",
+      "search_pos": "EFN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 671,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 672,
+      "search_word": "최고",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 673,
+      "search_word": "구속",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 674,
+      "search_word": "은",
+      "search_pos": "JX"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 675,
+      "search_word": "148",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 676,
+      "search_word": "㎞",
+      "search_pos": "NNM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 677,
+      "search_word": "이",
+      "search_pos": "VCP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 678,
+      "search_word": "었",
+      "search_pos": "EPT"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 679,
+      "search_word": "다",
+      "search_pos": "EFN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 680,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 681,
+      "search_word": "그",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 682,
+      "search_word": "는",
+      "search_pos": "ETD"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 683,
+      "search_word": "시즌",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 684,
+      "search_word": "두",
+      "search_pos": "MDN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 685,
+      "search_word": "번",
+      "search_pos": "NNB"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 686,
+      "search_word": "재",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 687,
+      "search_word": "퀄리티",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 688,
+      "search_word": "스타트",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 689,
+      "search_word": "를",
+      "search_pos": "JKO"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 690,
+      "search_word": "기록하",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 691,
+      "search_word": "었",
+      "search_pos": "EPT"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 692,
+      "search_word": "고",
+      "search_pos": "ECE"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 693,
+      "search_word": ",",
+      "search_pos": "SP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 694,
+      "search_word": "시즌",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 695,
+      "search_word": "첫",
+      "search_pos": "MDT"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 696,
+      "search_word": "무실점",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 697,
+      "search_word": "피칭",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 698,
+      "search_word": "을",
+      "search_pos": "JKO"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 699,
+      "search_word": "선보이",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 700,
+      "search_word": "었",
+      "search_pos": "EPT"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 701,
+      "search_word": "다",
+      "search_pos": "EFN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 702,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 703,
+      "search_word": "한화",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 704,
+      "search_word": "노시",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 705,
+      "search_word": "환은",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 706,
+      "search_word": "1",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 707,
+      "search_word": "회",
+      "search_pos": "NNM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 708,
+      "search_word": "초",
+      "search_pos": "NNB"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 709,
+      "search_word": "결승",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 710,
+      "search_word": "적시타",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 711,
+      "search_word": "를",
+      "search_pos": "JKO"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 712,
+      "search_word": "날리",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 713,
+      "search_word": "었",
+      "search_pos": "EPT"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 714,
+      "search_word": "고",
+      "search_pos": "ECE"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 715,
+      "search_word": ",",
+      "search_pos": "SP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 716,
+      "search_word": "안",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 717,
+      "search_word": "하",
+      "search_pos": "XSV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 718,
+      "search_word": "지",
+      "search_pos": "ECD"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 719,
+      "search_word": "홍",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 720,
+      "search_word": "은",
+      "search_pos": "JX"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 721,
+      "search_word": "4",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 722,
+      "search_word": "타수",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 723,
+      "search_word": "2",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 724,
+      "search_word": "안",
+      "search_pos": "MAG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 725,
+      "search_word": "타",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 726,
+      "search_word": "아",
+      "search_pos": "ECS"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 727,
+      "search_word": "2",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 728,
+      "search_word": "타점",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 729,
+      "search_word": "으로",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 730,
+      "search_word": "3-0",
+      "search_pos": "OL"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 731,
+      "search_word": "승리",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 732,
+      "search_word": "를",
+      "search_pos": "JKO"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 733,
+      "search_word": "이끌",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 734,
+      "search_word": "었",
+      "search_pos": "EPT"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 735,
+      "search_word": "다",
+      "search_pos": "EFN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 736,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 737,
+      "search_word": "장시",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 738,
+      "search_word": "환",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 739,
+      "search_word": ",",
+      "search_pos": "SP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 740,
+      "search_word": "한승",
+      "search_pos": "NNP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 741,
+      "search_word": "혁",
+      "search_pos": "UN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 742,
+      "search_word": ",",
+      "search_pos": "SP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 743,
+      "search_word": "주",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 744,
+      "search_word": "현상",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 745,
+      "search_word": "도",
+      "search_pos": "JX"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 746,
+      "search_word": "무실점",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 747,
+      "search_word": "계투",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 748,
+      "search_word": "로",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 749,
+      "search_word": "승리",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 750,
+      "search_word": "를",
+      "search_pos": "JKO"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 751,
+      "search_word": "지키",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 752,
+      "search_word": "었",
+      "search_pos": "EPT"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 753,
+      "search_word": "다",
+      "search_pos": "EFN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 754,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 755,
+      "search_word": "[",
+      "search_pos": "SS"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 756,
+      "search_word": "서울",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 757,
+      "search_word": "=",
+      "search_pos": "SW"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 758,
+      "search_word": "뉴",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 759,
+      "search_word": "시스",
+      "search_pos": "NNP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 760,
+      "search_word": "]",
+      "search_pos": "SS"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 761,
+      "search_word": "김",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 762,
+      "search_word": "명년",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 763,
+      "search_word": "기자",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 764,
+      "search_word": "=",
+      "search_pos": "SW"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 765,
+      "search_word": "11",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 766,
+      "search_word": "일",
+      "search_pos": "NNM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 767,
+      "search_word": "서울",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 768,
+      "search_word": "송파구",
+      "search_pos": "NNP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 769,
+      "search_word": "잠실",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 770,
+      "search_word": "야구장",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 771,
+      "search_word": "에서",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 772,
+      "search_word": "열리",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 773,
+      "search_word": "ㄴ",
+      "search_pos": "ETD"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 774,
+      "search_word": "2024",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 775,
+      "search_word": "KBO",
+      "search_pos": "OL"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 776,
+      "search_word": "리그",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 777,
+      "search_word": "한화",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 778,
+      "search_word": "이",
+      "search_pos": "MDT"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 779,
+      "search_word": "글스",
+      "search_pos": "UN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 780,
+      "search_word": "대",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 781,
+      "search_word": "두",
+      "search_pos": "MDN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 782,
+      "search_word": "산",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 783,
+      "search_word": "베",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 784,
+      "search_word": "어스",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 785,
+      "search_word": "의",
+      "search_pos": "JKG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 786,
+      "search_word": "경기",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 787,
+      "search_word": ",",
+      "search_pos": "SP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 788,
+      "search_word": "3",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 789,
+      "search_word": "대",
+      "search_pos": "NNM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 790,
+      "search_word": "0",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 791,
+      "search_word": "으로",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 792,
+      "search_word": "승리",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 793,
+      "search_word": "하",
+      "search_pos": "XSV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 794,
+      "search_word": "ㄴ",
+      "search_pos": "ETD"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 795,
+      "search_word": "한화",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 796,
+      "search_word": "류",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 797,
+      "search_word": "현진",
+      "search_pos": "NNP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 798,
+      "search_word": "이",
+      "search_pos": "JKS"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 799,
+      "search_word": "환하",
+      "search_pos": "VA"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 800,
+      "search_word": "게",
+      "search_pos": "ECD"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 801,
+      "search_word": "웃",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 802,
+      "search_word": "으며",
+      "search_pos": "ECE"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 803,
+      "search_word": "손",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 804,
+      "search_word": "을",
+      "search_pos": "JKO"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 805,
+      "search_word": "들",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 806,
+      "search_word": "고",
+      "search_pos": "ECE"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 807,
+      "search_word": "있",
+      "search_pos": "VXV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 808,
+      "search_word": "다",
+      "search_pos": "EFN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 809,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 810,
+      "search_word": "2024.04",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 811,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 812,
+      "search_word": "11",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 813,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 814,
+      "search_word": "kmn",
+      "search_pos": "OL"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 815,
+      "search_word": "@",
+      "search_pos": "SW"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 816,
+      "search_word": "newsis",
+      "search_pos": "OL"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 817,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 818,
+      "search_word": "com",
+      "search_pos": "OL"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 819,
+      "search_word": "[",
+      "search_pos": "SS"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 820,
+      "search_word": "서울",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 821,
+      "search_word": "=",
+      "search_pos": "SW"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 822,
+      "search_word": "뉴",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 823,
+      "search_word": "시스",
+      "search_pos": "NNP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 824,
+      "search_word": "]",
+      "search_pos": "SS"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 825,
+      "search_word": "김",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 826,
+      "search_word": "명년",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 827,
+      "search_word": "기자",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 828,
+      "search_word": "=",
+      "search_pos": "SW"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 829,
+      "search_word": "11",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 830,
+      "search_word": "일",
+      "search_pos": "NNM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 831,
+      "search_word": "서울",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 832,
+      "search_word": "송파구",
+      "search_pos": "NNP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 833,
+      "search_word": "잠실",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 834,
+      "search_word": "야구장",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 835,
+      "search_word": "에서",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 836,
+      "search_word": "열리",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 837,
+      "search_word": "ㄴ",
+      "search_pos": "ETD"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 838,
+      "search_word": "2024",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 839,
+      "search_word": "KBO",
+      "search_pos": "OL"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 840,
+      "search_word": "리그",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 841,
+      "search_word": "한화",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 842,
+      "search_word": "이",
+      "search_pos": "MDT"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 843,
+      "search_word": "글스",
+      "search_pos": "UN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 844,
+      "search_word": "대",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 845,
+      "search_word": "두",
+      "search_pos": "MDN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 846,
+      "search_word": "산",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 847,
+      "search_word": "베",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 848,
+      "search_word": "어스",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 849,
+      "search_word": "의",
+      "search_pos": "JKG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 850,
+      "search_word": "경기",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 851,
+      "search_word": ",",
+      "search_pos": "SP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 852,
+      "search_word": "한화",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 853,
+      "search_word": "선발",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 854,
+      "search_word": "류",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 855,
+      "search_word": "현진",
+      "search_pos": "NNP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 856,
+      "search_word": "이",
+      "search_pos": "JKS"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 857,
+      "search_word": "역투",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 858,
+      "search_word": "하",
+      "search_pos": "XSV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 859,
+      "search_word": "고",
+      "search_pos": "ECE"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 860,
+      "search_word": "있",
+      "search_pos": "VXV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 861,
+      "search_word": "다",
+      "search_pos": "EFN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 862,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 863,
+      "search_word": "2024.04",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 864,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 865,
+      "search_word": "11",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 866,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 867,
+      "search_word": "kmn",
+      "search_pos": "OL"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 868,
+      "search_word": "@",
+      "search_pos": "SW"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 869,
+      "search_word": "newsis",
+      "search_pos": "OL"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 870,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 871,
+      "search_word": "com",
+      "search_pos": "OL"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 872,
+      "search_word": "[",
+      "search_pos": "SS"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 873,
+      "search_word": "서울",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 874,
+      "search_word": "=",
+      "search_pos": "SW"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 875,
+      "search_word": "뉴",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 876,
+      "search_word": "시스",
+      "search_pos": "NNP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 877,
+      "search_word": "]",
+      "search_pos": "SS"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 878,
+      "search_word": "김",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 879,
+      "search_word": "명년",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 880,
+      "search_word": "기자",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 881,
+      "search_word": "=",
+      "search_pos": "SW"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 882,
+      "search_word": "11",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 883,
+      "search_word": "일",
+      "search_pos": "NNM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 884,
+      "search_word": "서울",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 885,
+      "search_word": "송파구",
+      "search_pos": "NNP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 886,
+      "search_word": "잠실",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 887,
+      "search_word": "야구장",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 888,
+      "search_word": "에서",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 889,
+      "search_word": "열리",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 890,
+      "search_word": "ㄴ",
+      "search_pos": "ETD"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 891,
+      "search_word": "2024",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 892,
+      "search_word": "KBO",
+      "search_pos": "OL"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 893,
+      "search_word": "리그",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 894,
+      "search_word": "한화",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 895,
+      "search_word": "이",
+      "search_pos": "MDT"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 896,
+      "search_word": "글스",
+      "search_pos": "UN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 897,
+      "search_word": "대",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 898,
+      "search_word": "두",
+      "search_pos": "MDN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 899,
+      "search_word": "산",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 900,
+      "search_word": "베",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 901,
+      "search_word": "어스",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 902,
+      "search_word": "의",
+      "search_pos": "JKG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 903,
+      "search_word": "경기",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 904,
+      "search_word": ",",
+      "search_pos": "SP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 905,
+      "search_word": "한화",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 906,
+      "search_word": "선발",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 907,
+      "search_word": "류",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 908,
+      "search_word": "현진",
+      "search_pos": "NNP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 909,
+      "search_word": "이",
+      "search_pos": "JKS"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 910,
+      "search_word": "역투",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 911,
+      "search_word": "하",
+      "search_pos": "XSV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 912,
+      "search_word": "고",
+      "search_pos": "ECE"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 913,
+      "search_word": "있",
+      "search_pos": "VXV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 914,
+      "search_word": "다",
+      "search_pos": "EFN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 915,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 916,
+      "search_word": "2024.04",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 917,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 918,
+      "search_word": "11",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 919,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 920,
+      "search_word": "kmn",
+      "search_pos": "OL"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 921,
+      "search_word": "@",
+      "search_pos": "SW"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 922,
+      "search_word": "newsis",
+      "search_pos": "OL"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 923,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 924,
+      "search_word": "com",
+      "search_pos": "OL"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 925,
+      "search_word": "[",
+      "search_pos": "SS"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 926,
+      "search_word": "서울",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 927,
+      "search_word": "=",
+      "search_pos": "SW"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 928,
+      "search_word": "뉴",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 929,
+      "search_word": "시스",
+      "search_pos": "NNP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 930,
+      "search_word": "]",
+      "search_pos": "SS"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 931,
+      "search_word": "김",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 932,
+      "search_word": "명년",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 933,
+      "search_word": "기자",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 934,
+      "search_word": "=",
+      "search_pos": "SW"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 935,
+      "search_word": "11",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 936,
+      "search_word": "일",
+      "search_pos": "NNM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 937,
+      "search_word": "서울",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 938,
+      "search_word": "송파구",
+      "search_pos": "NNP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 939,
+      "search_word": "잠실",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 940,
+      "search_word": "야구장",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 941,
+      "search_word": "에서",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 942,
+      "search_word": "열리",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 943,
+      "search_word": "ㄴ",
+      "search_pos": "ETD"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 944,
+      "search_word": "2024",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 945,
+      "search_word": "KBO",
+      "search_pos": "OL"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 946,
+      "search_word": "리그",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 947,
+      "search_word": "한화",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 948,
+      "search_word": "이",
+      "search_pos": "MDT"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 949,
+      "search_word": "글스",
+      "search_pos": "UN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 950,
+      "search_word": "대",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 951,
+      "search_word": "두",
+      "search_pos": "MDN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 952,
+      "search_word": "산",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 953,
+      "search_word": "베",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 954,
+      "search_word": "어스",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 955,
+      "search_word": "의",
+      "search_pos": "JKG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 956,
+      "search_word": "경기",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 957,
+      "search_word": ",",
+      "search_pos": "SP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 958,
+      "search_word": "5",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 959,
+      "search_word": "회",
+      "search_pos": "NNM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 960,
+      "search_word": "말",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 961,
+      "search_word": "한화",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 962,
+      "search_word": "류",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 963,
+      "search_word": "현진",
+      "search_pos": "NNP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 964,
+      "search_word": "이",
+      "search_pos": "JKS"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 965,
+      "search_word": "무실점",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 966,
+      "search_word": "으로",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 967,
+      "search_word": "이닝",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 968,
+      "search_word": "을",
+      "search_pos": "JKO"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 969,
+      "search_word": "마치",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 970,
+      "search_word": "고",
+      "search_pos": "ECE"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 971,
+      "search_word": "더",
+      "search_pos": "MAG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 972,
+      "search_word": "그",
+      "search_pos": "MDT"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 973,
+      "search_word": "아웃",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 974,
+      "search_word": "으로",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 975,
+      "search_word": "향하",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 976,
+      "search_word": "고",
+      "search_pos": "ECE"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 977,
+      "search_word": "있",
+      "search_pos": "VXV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 978,
+      "search_word": "다",
+      "search_pos": "EFN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 979,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 980,
+      "search_word": "2024.04",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 981,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 982,
+      "search_word": "11",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 983,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 984,
+      "search_word": "kmn",
+      "search_pos": "OL"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 985,
+      "search_word": "@",
+      "search_pos": "SW"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 986,
+      "search_word": "newsis",
+      "search_pos": "OL"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 987,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 988,
+      "search_word": "com",
+      "search_pos": "OL"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 989,
+      "search_word": "[",
+      "search_pos": "SS"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 990,
+      "search_word": "서울",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 991,
+      "search_word": "=",
+      "search_pos": "SW"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 992,
+      "search_word": "뉴",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 993,
+      "search_word": "시스",
+      "search_pos": "NNP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 994,
+      "search_word": "]",
+      "search_pos": "SS"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 995,
+      "search_word": "김",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 996,
+      "search_word": "명년",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 997,
+      "search_word": "기자",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 998,
+      "search_word": "=",
+      "search_pos": "SW"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 999,
+      "search_word": "11",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1000,
+      "search_word": "일",
+      "search_pos": "NNM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1001,
+      "search_word": "서울",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1002,
+      "search_word": "송파구",
+      "search_pos": "NNP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1003,
+      "search_word": "잠실",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1004,
+      "search_word": "야구장",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1005,
+      "search_word": "에서",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1006,
+      "search_word": "열리",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1007,
+      "search_word": "ㄴ",
+      "search_pos": "ETD"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1008,
+      "search_word": "2024",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1009,
+      "search_word": "KBO",
+      "search_pos": "OL"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1010,
+      "search_word": "리그",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1011,
+      "search_word": "한화",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1012,
+      "search_word": "이",
+      "search_pos": "MDT"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1013,
+      "search_word": "글스",
+      "search_pos": "UN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1014,
+      "search_word": "대",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1015,
+      "search_word": "두",
+      "search_pos": "MDN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1016,
+      "search_word": "산",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1017,
+      "search_word": "베",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1018,
+      "search_word": "어스",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1019,
+      "search_word": "의",
+      "search_pos": "JKG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1020,
+      "search_word": "경기",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1021,
+      "search_word": ",",
+      "search_pos": "SP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1022,
+      "search_word": "1",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1023,
+      "search_word": "회",
+      "search_pos": "NNM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1024,
+      "search_word": "초",
+      "search_pos": "NNB"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1025,
+      "search_word": "한화",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1026,
+      "search_word": "공격",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1027,
+      "search_word": "1",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1028,
+      "search_word": "사",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1029,
+      "search_word": "주자",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1030,
+      "search_word": "2",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1031,
+      "search_word": "루",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1032,
+      "search_word": "노시",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1033,
+      "search_word": "환",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1034,
+      "search_word": "이",
+      "search_pos": "JKS"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1035,
+      "search_word": "1",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1036,
+      "search_word": "타점",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1037,
+      "search_word": "적시타",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1038,
+      "search_word": "를",
+      "search_pos": "JKO"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1039,
+      "search_word": "치",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1040,
+      "search_word": "ㄴ",
+      "search_pos": "ETD"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1041,
+      "search_word": "후",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1042,
+      "search_word": "세리",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1043,
+      "search_word": "머니",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1044,
+      "search_word": "를",
+      "search_pos": "JKO"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1045,
+      "search_word": "하",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1046,
+      "search_word": "고",
+      "search_pos": "ECE"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1047,
+      "search_word": "있",
+      "search_pos": "VXV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1048,
+      "search_word": "다",
+      "search_pos": "EFN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1049,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1050,
+      "search_word": "2024.04",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1051,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1052,
+      "search_word": "11",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1053,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1054,
+      "search_word": "kmn",
+      "search_pos": "OL"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1055,
+      "search_word": "@",
+      "search_pos": "SW"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1056,
+      "search_word": "newsis",
+      "search_pos": "OL"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1057,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1058,
+      "search_word": "com",
+      "search_pos": "OL"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1059,
+      "search_word": "[",
+      "search_pos": "SS"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1060,
+      "search_word": "서울",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1061,
+      "search_word": "=",
+      "search_pos": "SW"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1062,
+      "search_word": "뉴",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1063,
+      "search_word": "시스",
+      "search_pos": "NNP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1064,
+      "search_word": "]",
+      "search_pos": "SS"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1065,
+      "search_word": "김",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1066,
+      "search_word": "명년",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1067,
+      "search_word": "기자",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1068,
+      "search_word": "=",
+      "search_pos": "SW"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1069,
+      "search_word": "11",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1070,
+      "search_word": "일",
+      "search_pos": "NNM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1071,
+      "search_word": "서울",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1072,
+      "search_word": "송파구",
+      "search_pos": "NNP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1073,
+      "search_word": "잠실",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1074,
+      "search_word": "야구장",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1075,
+      "search_word": "에서",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1076,
+      "search_word": "열리",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1077,
+      "search_word": "ㄴ",
+      "search_pos": "ETD"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1078,
+      "search_word": "2024",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1079,
+      "search_word": "KBO",
+      "search_pos": "OL"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1080,
+      "search_word": "리그",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1081,
+      "search_word": "한화",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1082,
+      "search_word": "이",
+      "search_pos": "MDT"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1083,
+      "search_word": "글스",
+      "search_pos": "UN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1084,
+      "search_word": "대",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1085,
+      "search_word": "두",
+      "search_pos": "MDN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1086,
+      "search_word": "산",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1087,
+      "search_word": "베",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1088,
+      "search_word": "어스",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1089,
+      "search_word": "의",
+      "search_pos": "JKG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1090,
+      "search_word": "경기",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1091,
+      "search_word": ",",
+      "search_pos": "SP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1092,
+      "search_word": "4",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1093,
+      "search_word": "회",
+      "search_pos": "NNM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1094,
+      "search_word": "초",
+      "search_pos": "NNB"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1095,
+      "search_word": "한화",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1096,
+      "search_word": "공격",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1097,
+      "search_word": "무사",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1098,
+      "search_word": "1",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1099,
+      "search_word": "루",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1100,
+      "search_word": "상황",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1101,
+      "search_word": "안",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1102,
+      "search_word": "하",
+      "search_pos": "XSV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1103,
+      "search_word": "지",
+      "search_pos": "ECD"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1104,
+      "search_word": "홍",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1105,
+      "search_word": "이",
+      "search_pos": "JKS"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1106,
+      "search_word": "1",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1107,
+      "search_word": "타점",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1108,
+      "search_word": "적시타",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1109,
+      "search_word": "를",
+      "search_pos": "JKO"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1110,
+      "search_word": "치",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1111,
+      "search_word": "고",
+      "search_pos": "ECE"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1112,
+      "search_word": "세리",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1113,
+      "search_word": "머니",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1114,
+      "search_word": "를",
+      "search_pos": "JKO"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1115,
+      "search_word": "하",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1116,
+      "search_word": "고",
+      "search_pos": "ECE"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1117,
+      "search_word": "있",
+      "search_pos": "VXV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1118,
+      "search_word": "다",
+      "search_pos": "EFN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1119,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1120,
+      "search_word": "2024.04",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1121,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1122,
+      "search_word": "11",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1123,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1124,
+      "search_word": "kmn",
+      "search_pos": "OL"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1125,
+      "search_word": "@",
+      "search_pos": "SW"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1126,
+      "search_word": "newsis",
+      "search_pos": "OL"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1127,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1128,
+      "search_word": "com",
+      "search_pos": "OL"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1129,
+      "search_word": "[",
+      "search_pos": "SS"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1130,
+      "search_word": "서울",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1131,
+      "search_word": "=",
+      "search_pos": "SW"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1132,
+      "search_word": "뉴",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1133,
+      "search_word": "시스",
+      "search_pos": "NNP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1134,
+      "search_word": "]",
+      "search_pos": "SS"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1135,
+      "search_word": "김",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1136,
+      "search_word": "명년",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1137,
+      "search_word": "기자",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1138,
+      "search_word": "=",
+      "search_pos": "SW"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1139,
+      "search_word": "11",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1140,
+      "search_word": "일",
+      "search_pos": "NNM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1141,
+      "search_word": "서울",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1142,
+      "search_word": "송파구",
+      "search_pos": "NNP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1143,
+      "search_word": "잠실",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1144,
+      "search_word": "야구장",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1145,
+      "search_word": "에서",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1146,
+      "search_word": "열리",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1147,
+      "search_word": "ㄴ",
+      "search_pos": "ETD"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1148,
+      "search_word": "2024",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1149,
+      "search_word": "KBO",
+      "search_pos": "OL"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1150,
+      "search_word": "리그",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1151,
+      "search_word": "한화",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1152,
+      "search_word": "이",
+      "search_pos": "MDT"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1153,
+      "search_word": "글스",
+      "search_pos": "UN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1154,
+      "search_word": "대",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1155,
+      "search_word": "두",
+      "search_pos": "MDN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1156,
+      "search_word": "산",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1157,
+      "search_word": "베",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1158,
+      "search_word": "어스",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1159,
+      "search_word": "의",
+      "search_pos": "JKG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1160,
+      "search_word": "경기",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1161,
+      "search_word": ",",
+      "search_pos": "SP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1162,
+      "search_word": "5",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1163,
+      "search_word": "회",
+      "search_pos": "NNM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1164,
+      "search_word": "말",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1165,
+      "search_word": "한화",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1166,
+      "search_word": "류",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1167,
+      "search_word": "현진",
+      "search_pos": "NNP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1168,
+      "search_word": "이",
+      "search_pos": "JKS"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1169,
+      "search_word": "무실점",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1170,
+      "search_word": "으로",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1171,
+      "search_word": "이닝",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1172,
+      "search_word": "을",
+      "search_pos": "JKO"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1173,
+      "search_word": "마치",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1174,
+      "search_word": "고",
+      "search_pos": "ECE"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1175,
+      "search_word": "채",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1176,
+      "search_word": "은성",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1177,
+      "search_word": "과",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1178,
+      "search_word": "인사",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1179,
+      "search_word": "를",
+      "search_pos": "JKO"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1180,
+      "search_word": "나누",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1181,
+      "search_word": "고",
+      "search_pos": "ECE"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1182,
+      "search_word": "있",
+      "search_pos": "VXV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1183,
+      "search_word": "다",
+      "search_pos": "EFN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1184,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1185,
+      "search_word": "2024.04",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1186,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1187,
+      "search_word": "11",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1188,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1189,
+      "search_word": "kmn",
+      "search_pos": "OL"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1190,
+      "search_word": "@",
+      "search_pos": "SW"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1191,
+      "search_word": "newsis",
+      "search_pos": "OL"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1192,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1193,
+      "search_word": "com",
+      "search_pos": "OL"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1194,
+      "search_word": "[",
+      "search_pos": "SS"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1195,
+      "search_word": "서울",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1196,
+      "search_word": "=",
+      "search_pos": "SW"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1197,
+      "search_word": "뉴",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1198,
+      "search_word": "시스",
+      "search_pos": "NNP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1199,
+      "search_word": "]",
+      "search_pos": "SS"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1200,
+      "search_word": "김",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1201,
+      "search_word": "명년",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1202,
+      "search_word": "기자",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1203,
+      "search_word": "=",
+      "search_pos": "SW"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1204,
+      "search_word": "11",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1205,
+      "search_word": "일",
+      "search_pos": "NNM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1206,
+      "search_word": "서울",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1207,
+      "search_word": "송파구",
+      "search_pos": "NNP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1208,
+      "search_word": "잠실",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1209,
+      "search_word": "야구장",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1210,
+      "search_word": "에서",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1211,
+      "search_word": "열리",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1212,
+      "search_word": "ㄴ",
+      "search_pos": "ETD"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1213,
+      "search_word": "2024",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1214,
+      "search_word": "KBO",
+      "search_pos": "OL"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1215,
+      "search_word": "리그",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1216,
+      "search_word": "한화",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1217,
+      "search_word": "이",
+      "search_pos": "MDT"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1218,
+      "search_word": "글스",
+      "search_pos": "UN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1219,
+      "search_word": "대",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1220,
+      "search_word": "두",
+      "search_pos": "MDN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1221,
+      "search_word": "산",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1222,
+      "search_word": "베",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1223,
+      "search_word": "어스",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1224,
+      "search_word": "의",
+      "search_pos": "JKG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1225,
+      "search_word": "경기",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1226,
+      "search_word": ",",
+      "search_pos": "SP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1227,
+      "search_word": "8",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1228,
+      "search_word": "회",
+      "search_pos": "NNM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1229,
+      "search_word": "초",
+      "search_pos": "NNB"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1230,
+      "search_word": "2",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1231,
+      "search_word": "사",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1232,
+      "search_word": "주자",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1233,
+      "search_word": "2",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1234,
+      "search_word": "루",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1235,
+      "search_word": "상황",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1236,
+      "search_word": "한화",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1237,
+      "search_word": "안",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1238,
+      "search_word": "하",
+      "search_pos": "XSV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1239,
+      "search_word": "지",
+      "search_pos": "ECD"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1240,
+      "search_word": "홍",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1241,
+      "search_word": "이",
+      "search_pos": "JKS"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1242,
+      "search_word": "1",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1243,
+      "search_word": "타점",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1244,
+      "search_word": "적시타",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1245,
+      "search_word": "를",
+      "search_pos": "JKO"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1246,
+      "search_word": "치",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1247,
+      "search_word": "고",
+      "search_pos": "ECE"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1248,
+      "search_word": "세리",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1249,
+      "search_word": "머니",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1250,
+      "search_word": "를",
+      "search_pos": "JKO"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1251,
+      "search_word": "하",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1252,
+      "search_word": "고",
+      "search_pos": "ECE"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1253,
+      "search_word": "있",
+      "search_pos": "VXV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1254,
+      "search_word": "다",
+      "search_pos": "EFN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1255,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1256,
+      "search_word": "2024.04",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1257,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1258,
+      "search_word": "11",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1259,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1260,
+      "search_word": "kmn",
+      "search_pos": "OL"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1261,
+      "search_word": "@",
+      "search_pos": "SW"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1262,
+      "search_word": "newsis",
+      "search_pos": "OL"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1263,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1264,
+      "search_word": "com",
+      "search_pos": "OL"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1265,
+      "search_word": "[",
+      "search_pos": "SS"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1266,
+      "search_word": "서울",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1267,
+      "search_word": "=",
+      "search_pos": "SW"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1268,
+      "search_word": "뉴",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1269,
+      "search_word": "시스",
+      "search_pos": "NNP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1270,
+      "search_word": "]",
+      "search_pos": "SS"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1271,
+      "search_word": "김",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1272,
+      "search_word": "명년",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1273,
+      "search_word": "기자",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1274,
+      "search_word": "=",
+      "search_pos": "SW"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1275,
+      "search_word": "11",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1276,
+      "search_word": "일",
+      "search_pos": "NNM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1277,
+      "search_word": "서울",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1278,
+      "search_word": "송파구",
+      "search_pos": "NNP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1279,
+      "search_word": "잠실",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1280,
+      "search_word": "야구장",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1281,
+      "search_word": "에서",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1282,
+      "search_word": "열리",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1283,
+      "search_word": "ㄴ",
+      "search_pos": "ETD"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1284,
+      "search_word": "2024",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1285,
+      "search_word": "KBO",
+      "search_pos": "OL"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1286,
+      "search_word": "리그",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1287,
+      "search_word": "한화",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1288,
+      "search_word": "이",
+      "search_pos": "MDT"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1289,
+      "search_word": "글스",
+      "search_pos": "UN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1290,
+      "search_word": "대",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1291,
+      "search_word": "두",
+      "search_pos": "MDN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1292,
+      "search_word": "산",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1293,
+      "search_word": "베",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1294,
+      "search_word": "어스",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1295,
+      "search_word": "의",
+      "search_pos": "JKG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1296,
+      "search_word": "경기",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1297,
+      "search_word": ",",
+      "search_pos": "SP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1298,
+      "search_word": "6",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1299,
+      "search_word": "회",
+      "search_pos": "NNM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1300,
+      "search_word": "말",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1301,
+      "search_word": "한화",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1302,
+      "search_word": "류",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1303,
+      "search_word": "현진",
+      "search_pos": "NNP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1304,
+      "search_word": "이",
+      "search_pos": "JKS"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1305,
+      "search_word": "무실점",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1306,
+      "search_word": "으로",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1307,
+      "search_word": "이닝",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1308,
+      "search_word": "을",
+      "search_pos": "JKO"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1309,
+      "search_word": "마치",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1310,
+      "search_word": "고",
+      "search_pos": "ECE"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1311,
+      "search_word": "미소",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1312,
+      "search_word": "를",
+      "search_pos": "JKO"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1313,
+      "search_word": "짓",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1314,
+      "search_word": "으며",
+      "search_pos": "ECE"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1315,
+      "search_word": "더",
+      "search_pos": "MAG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1316,
+      "search_word": "그",
+      "search_pos": "MDT"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1317,
+      "search_word": "아웃",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1318,
+      "search_word": "으로",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1319,
+      "search_word": "향하",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1320,
+      "search_word": "고",
+      "search_pos": "ECE"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1321,
+      "search_word": "있",
+      "search_pos": "VXV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1322,
+      "search_word": "다",
+      "search_pos": "EFN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1323,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1324,
+      "search_word": "2024.04",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1325,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1326,
+      "search_word": "11",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1327,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1328,
+      "search_word": "kmn",
+      "search_pos": "OL"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1329,
+      "search_word": "@",
+      "search_pos": "SW"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1330,
+      "search_word": "newsis",
+      "search_pos": "OL"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1331,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1332,
+      "search_word": "com",
+      "search_pos": "OL"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1333,
+      "search_word": "[",
+      "search_pos": "SS"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1334,
+      "search_word": "서울",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1335,
+      "search_word": "=",
+      "search_pos": "SW"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1336,
+      "search_word": "뉴",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1337,
+      "search_word": "시스",
+      "search_pos": "NNP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1338,
+      "search_word": "]",
+      "search_pos": "SS"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1339,
+      "search_word": "김",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1340,
+      "search_word": "명년",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1341,
+      "search_word": "기자",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1342,
+      "search_word": "=",
+      "search_pos": "SW"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1343,
+      "search_word": "11",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1344,
+      "search_word": "일",
+      "search_pos": "NNM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1345,
+      "search_word": "서울",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1346,
+      "search_word": "송파구",
+      "search_pos": "NNP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1347,
+      "search_word": "잠실",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1348,
+      "search_word": "야구장",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1349,
+      "search_word": "에서",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1350,
+      "search_word": "열리",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1351,
+      "search_word": "ㄴ",
+      "search_pos": "ETD"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1352,
+      "search_word": "2024",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1353,
+      "search_word": "KBO",
+      "search_pos": "OL"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1354,
+      "search_word": "리그",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1355,
+      "search_word": "한화",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1356,
+      "search_word": "이",
+      "search_pos": "MDT"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1357,
+      "search_word": "글스",
+      "search_pos": "UN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1358,
+      "search_word": "대",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1359,
+      "search_word": "두",
+      "search_pos": "MDN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1360,
+      "search_word": "산",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1361,
+      "search_word": "베",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1362,
+      "search_word": "어스",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1363,
+      "search_word": "의",
+      "search_pos": "JKG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1364,
+      "search_word": "경기",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1365,
+      "search_word": ",",
+      "search_pos": "SP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1366,
+      "search_word": "3",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1367,
+      "search_word": "대",
+      "search_pos": "NNM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1368,
+      "search_word": "0",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1369,
+      "search_word": "으로",
+      "search_pos": "JKM"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1370,
+      "search_word": "승리",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1371,
+      "search_word": "하",
+      "search_pos": "XSV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1372,
+      "search_word": "ㄴ",
+      "search_pos": "ETD"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1373,
+      "search_word": "한화",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1374,
+      "search_word": "류",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1375,
+      "search_word": "현진",
+      "search_pos": "NNP"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1376,
+      "search_word": "이",
+      "search_pos": "JKS"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1377,
+      "search_word": "코치",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1378,
+      "search_word": "진과",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1379,
+      "search_word": "인사",
+      "search_pos": "NNG"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1380,
+      "search_word": "를",
+      "search_pos": "JKO"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1381,
+      "search_word": "나누",
+      "search_pos": "VV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1382,
+      "search_word": "고",
+      "search_pos": "ECE"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1383,
+      "search_word": "있",
+      "search_pos": "VXV"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1384,
+      "search_word": "다",
+      "search_pos": "EFN"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1385,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1386,
+      "search_word": "2024.04",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1387,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1388,
+      "search_word": "11",
+      "search_pos": "NR"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1389,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1390,
+      "search_word": "kmn",
+      "search_pos": "OL"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1391,
+      "search_word": "@",
+      "search_pos": "SW"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1392,
+      "search_word": "newsis",
+      "search_pos": "OL"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1393,
+      "search_word": ".",
+      "search_pos": "SF"
+    }
+  },
+  {
+    "model": "nlp.search_list",
+    "fields": {
+      "id": 1394,
+      "search_word": "com",
+      "search_pos": "OL"
+    }
+  }
+]

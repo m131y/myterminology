@@ -1,0 +1,292 @@
+{% load static %}
+<!doctype html>
+<html class="html" lang="ko">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"/>
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="theme-color" content="#fff">
+    <!-- <script>
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('http://localhost/service-worker.js');
+        }
+    </script> -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.5/gsap.min.js"></script>
+    <!-- This site is optimized with the Yoast SEO plugin v22.1-RC2 - https://yoast.com/wordpress/plugins/seo/ -->
+    <title>Home - Mooders</title>
+    <meta name="description" content="Mooders is a music creative team and a sound design studio, focused on high-end sound creations, for demanding and ambitious clients."/>
+  <script defer src="/static/bundle.js"></script></head>
+  <body class="home page-template-default page page-id-45 wp-embed-responsive">
+    <div class="header-bg fixed top-0 left-0 w-full h-[5.5rem] md:h-[6.5rem] bg-primary z-[8]"></div>
+    <header class="header sticky top-0 left-0 w-full px-container pt-container mb-10 z-header transition-mode">
+        <div class="header-overlay fixed top-0 left-0 w-full h-screen bg-black opacity-0 pointer-events-none -z-1"></div>
+        <div class="header-menu relative w-full h-header border-px border-secondary flex md:grid md:gap-x-grid md:grid-cols-24 bg-primary transition-mode justify-between">
+            <div class="md:col-start-1 md:col-end-22 lg:col-end-23 flex flex-1 justigsap.registerPlugin(ScrollTrigger);
+  fy-between items-center pl-20 pr-20 md:pr-16">
+                <a href="/index" class="svg-wrapper text-secondary block w-[8.5rem] pb-[0.6rem] -mb-[0.6rem] transition-mode" aria-label="Home">GLOSSARY
+                </a>
+                <div class="md:absolute md:left-1/2 header-switcher flex items-center cursor-pointer h-full px-10 md:-translate-x-1/2">
+                    <div class="w-[1.2rem] h-[1.2rem] border-rem border-secondary bg-white rounded-full transition-mode"></div>
+                    <div class="w-[1.2rem] h-[1.2rem] border-rem border-secondary bg-black rounded-full -ml-[0.4rem] transition-mode"></div>
+                </div>
+                <div class="header-languages pt-[0.2rem] md:pt-[0.4rem]" style="margin-left: auto">
+                    <div class="langswitcher flex gap-x-5 uppercase text-secondary transition-mode">
+                        {% if is_logged_in %}
+                            <span class="body-12 font-bold"> {{ username }}님 반갑습니다.</span>
+                            <a class="lang-link body-12 font-bold  opacity-30  hover:opacity-100" hreflang="logout" href="/index/process-logout" data-taxi-ignore>Log Out</a>
+                        {% else %}
+                            <a class="lang-link body-12 font-bold  opacity-30  hover:opacity-100" hreflang="logout" href="/index/process-logout" data-taxi-ignore>Log Out</a>
+                            <a class="lang-link body-12 font-bold  opacity-100  hover:opacity-100" hreflang="login" href="/index/login" data-taxi-ignore>Log In</a>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+            <div class="header-toggler group cursor-pointer md:col-start-22 lg:col-start-23 col-end-25 flex justify-center items-center px-20 md:px-0 pt-[0.2rem] md:pt-[0.4rem] border-l-px border-l-secondary bg-transparent xl:hover:bg-secondary transition-mode">
+                <div class="relative body-12 font-bold select-none text-secondary uppercase xl:group-hover:text-primary transition-mode">
+                    <span class="group-[.a]:opacity-0">Menu</span>
+                    <span class="absolute top-1/2 left-1/2 opacity-0 -translate-x-1/2 -translate-y-1/2 xl:-translate-y-[45%] group-[.a]:opacity-100">Close</span>
+                </div>
+            </div>
+        </div>
+        <div class="header-menu-wrapper absolute top-header h-0 pt-10 left-0 flex items-start w-full grid-w uppercase pointer-events-auto overflow-hidden transition-m">
+            <div class="header-item-col -mt-px md:-mt-0 bg-primary border-px border-secondary flex flex-col justify-between pointer-events-auto col-span-full md:col-span-6 transition-mode">
+                <div class="flex flex-col">
+                    <a href="/index/news/" data-transition="menu" data-index="0" class="link header-item-cell -mt-px hidden md:flex md:items-end h-[8.8rem] p-10 py-10 lg:pl-20 lg:pr-[4.2rem] xl:pr-[11.8rem] lg:py-15 border-y-px border-secondary bg-primary text-secondary transition-mode">
+                        <span style="--delay: 0.012s" data-splitting="chars">NEWS</span>
+                    </a>
+                    
+                    <a href="" data-transition="menu" data-index="0" class="link header-item-cell -mt-px hidden md:flex md:items-end h-[8.8rem] p-10 py-10 lg:pl-20 lg:pr-[4.2rem] xl:pr-[11.8rem] lg:py-15 border-y-px border-secondary bg-primary text-secondary transition-mode">
+                        <span style="--delay: 0.012s" data-splitting="chars"></span>
+                    </a>
+                </div>
+                <a href="" data-transition="menu" data-index="0" class="link header-item relative bg-primary flex items-end h-[8.8rem] px-10 py-5 lg:px-20 lg:py-10 heading-48 md:heading-32 lg:heading-42 xl:heading-48 font-bold text-secondary  border-secondary transition-mode">
+                    <span data-splitting="chars">Works</span>
+                </a>
+            </div>
+            <div class="header-item-col -mt-px md:-mt-0 bg-primary border-px border-secondary flex flex-col justify-between pointer-events-auto col-span-full md:col-span-6 transition-mode">
+                <div class="flex flex-col">
+                    <a href="" class="link header-item-cell hidden md:flex md:items-end h-[8.8rem] p-10 py-10 lg:pl-20 lg:pr-[4.2rem] xl:pr-[11.8rem] lg:py-15 border-y-px border-secondary -mt-px bg-primary text-secondary transition-mode">
+                        <span style="--delay: 0.012s" data-splitting="chars">사이트 소개</span>
+                    </a>
+                    <a href="" class="link header-item-cell hidden md:flex md:items-end h-[8.8rem] p-10 py-10 lg:pl-20 lg:pr-[4.2rem] xl:pr-[11.8rem] lg:py-15 border-y-px border-secondary -mt-px bg-primary text-secondary transition-mode">
+                        <span style="--delay: 0.012s" data-splitting="chars">FAQ</span>
+                    </a>
+                </div>
+                <a href="" data-transition="menu" data-index="1" class="link header-item relative bg-primary flex items-end h-[8.8rem] px-10 py-5 lg:px-20 lg:py-10 heading-48 md:heading-32 lg:heading-42 xl:heading-48 font-bold text-secondary  border-secondary transition-mode">
+                    <span data-splitting="chars">About</span>
+                </a>
+            </div>
+            <div class="header-item-col -mt-px md:-mt-0 bg-primary border-px border-secondary flex flex-col justify-between pointer-events-auto col-span-full md:col-span-6 transition-mode">
+                <a href="/index/test" data-transition="menu" data-index="2" class="link leading-[1.4] header-item-cell -mt-px hidden md:flex md:items-end h-[8.8rem] p-10 py-10 lg:pl-20 lg:pr-[4.2rem] xl:pr-[11.8rem] lg:py-15 border-y-px border-secondary bg-primary text-secondary transition-mode">
+                    <span style="--delay: 0.008s" data-splitting="chars">학습 수준 테스트</span>
+                </a>
+                <a href="" data-transition="menu" data-index="2" class="link leading-[1.4] header-item-cell -mt-px hidden md:flex md:items-end h-[8.8rem] p-10 py-10 lg:pl-20 lg:pr-[4.2rem] xl:pr-[11.8rem] lg:py-15 border-y-px border-secondary bg-primary text-secondary transition-mode">
+                    <span style="--delay: 0.008s" data-splitting="chars">나의 용어 사전</span>
+                </a>
+                <a href="" data-transition="menu" data-index="2" class="link header-item relative bg-primary flex items-end h-[8.8rem] px-10 py-5 lg:px-20 lg:py-10 heading-48 md:heading-32 lg:heading-42 xl:heading-48 font-bold text-secondary  border-secondary transition-mode">
+                    <span data-splitting="chars">MY PAGE</span>
+                </a>
+            </div>
+            <div class="header-item-col -mt-px md:-mt-0 bg-primary border-px border-secondary flex flex-col justify-between pointer-events-auto col-span-full md:col-span-6 transition-mode">
+                <a href="mailto:hello@mooders.net" class="link header-item-cell hidden md:flex md:items-end h-[8.8rem] -mt-px p-10 py-10 lg:pl-20 lg:pr-[4.2rem] xl:pr-[11.8rem] lg:py-15 border-y-px border-secondary bg-primary text-secondary transition-mode">
+                    <span style="--delay: 0.01s" data-splitting="chars">hello@mooders.net</span>
+                </a>
+                <div class="header-item-cell hidden md:flex md:items-end h-[8.8rem] p-10 py-10 lg:pl-20 lg:pr-[4.2rem] xl:pr-[11.8rem] lg:py-15 border-y-px border-secondary -mt-px bg-primary text-secondary transition-mode">
+                    <div class="flex flex-wrap">
+                        <a href="https://twitter.com/" target="_blank" rel="noopener" class="link inline">
+                            <span data-splitting="chars">Twitter</span>
+                        </a>
+                        <span>, </span>
+                        <a href="https://www.linkedin.com/" target="_blank" rel="noopener" class="link inline">
+                            <span data-splitting="chars">Linkedin</span>
+                        </a>
+                        <span>, </span>
+                        <a href="https://www.instagram.com/" target="_blank" rel="noopener" class="link inline">
+                            <span data-splitting="chars">Instagram</span>
+                        </a>
+                    </div>
+                </div>
+                <a href="" data-transition="menu" data-index="3" class="link header-item relative bg-primary flex items-end h-[8.8rem] px-10 py-5 lg:px-20 lg:py-10 heading-48 md:heading-32 lg:heading-42 xl:heading-48 font-bold text-secondary  border-secondary transition-mode">
+                    <span data-splitting="chars">Contact</span>
+                </a>
+            </div>
+        </div>
+    </header>
+    <div class="fade fixed top-0 left-0 w-screen h-screen bg-primary pointer-events-none opacity-0 z-transition"></div>
+    <div class="panel fixed top-0 left-0 w-screen h-screen bg-primary pointer-events-none z-transition"></div>
+    <div class="panel-overlay fixed top-0 left-0 w-screen h-screen bg-[#121212] pointer-events-none z-overlay"></div>
+    
+    <div class="content pb-container" data-taxi role="document">
+        <div data-taxi-view data-template="home">
+            <div class="home">
+                
+                <div class="fixed top-sticky px-container w-full h-available">
+                    <div class="home-wrapper relative grid grid-cols-24 gap-x-grid h-full content-end border-px border-secondary overflow-hidden transition-mode">
+                        <div class="home-next absolute top-0 left-0 w-full h-[calc(50%-7rem)] z-1 xl:hidden"></div>
+                        <div class="home-next absolute bottom-0 left-0 w-full h-[calc(50%-7rem)] cursor-pointer z-1 xl:hidden"></div>
+                        <div class="absolute top-1/2 w-full -translate-y-1/2 h-[8rem] xl:top-0 xl:left-1/2 xl:-translate-x-1/2 xl:translate-y-0 xl:h-auto xl:relative xl:col-start-3 xl:col-end-23 flex flex-col md:flex-row items-center justify-center flex-wrap mb-0 md:mb-15" style="margin-bottom: 25rem;">
+                            <!-- URL 입력 폼 -->
+                            <form action="/index/process-news/" method="post" class="w-full h-full flex flex-col items-center justify-center">
+                                {% csrf_token %}
+                                <input type="text" id="url" name="url" placeholder="뉴스의 URL을 입력해주세요." class="w-full px-4 py-2 mb-4">
+                                <input type="submit" value="Submit" class="w-auto px-4 py-2">
+                            </form>
+                        </div>
+                        
+                        <div class="home-logo svg-wrapper relative col-span-full px-20 pb-[1.2rem] text-secondary transition-mode hidden xl:block will-change-transform">
+                            <div class="relative w-full">
+                                <div class="absolute left-[18.7%] top-0 w-[54.3rem] h-full">
+                                    <div class="absolute top-0 left-0 w-full h-full" style="clip-path: url(#homeLogoClip)">
+                                        <div class="absolute top-0 left-0 w-full h-full">
+                                            <div class="home-main-video-overlay absolute top-0 left-0 w-full h-full bg-secondary transition-opacity duration-500 ease-out delay-200"></div>
+                                        </div>
+                                        <div class="home-image absolute top-0 left-0 w-full h-full opacity-0">
+                                            <div class="image  w-full h-full ">
+                                                <figure class="w-full h-full">
+                                                    
+                                                </figure>
+                                            </div>
+                                        </div>
+                                        <div class="home-image absolute top-0 left-0 w-full h-full opacity-0">
+                                            <div class="image  w-full h-full ">
+                                                <figure class="w-full h-full">
+                                                  
+                                                </figure>
+                                            </div>
+                                        </div>
+                                        <div class="home-image absolute top-0 left-0 w-full h-full opacity-0">
+                                            <div class="image  w-full h-full ">
+                                                <figure class="w-full h-full">
+                                                    
+                                                </figure>
+                                            </div>
+                                        </div>
+                                        <div class="home-image absolute top-0 left-0 w-full h-full opacity-0">
+                                            <div class="image  w-full h-full ">
+                                                <figure class="w-full h-full">
+                                                  
+                                                </figure>
+                                            </div>
+                                        </div>
+                                        <div class="home-image absolute top-0 left-0 w-full h-full opacity-0">
+                                            <div class="image  w-full h-full ">
+                                                <figure class="w-full h-full">
+                                                  
+                                                </figure>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                <div class="home-logo-clip svg-wrapper absolute top-0 left-[18.7%] w-[38%] h-full">
+                                    <svg width="373" height="150" viewBox="0 0 373 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <clipPath id="homeLogoClip" clipPathUnits="objectBoundingBox" style="transform: scale(0.00268096514, 0.00666666666);">
+                                            <path class="logo-home-path-1" d="M140.624 35.6678C134.227 24.4532 125.401 15.7488 114.227 9.55442C103.012 3.36009 90.057 0.242676 75.361 0.242676C60.664 0.242676 48.073 3.36009 36.818 9.55442C25.563 15.7488 16.737 24.4532 10.421 35.5868C4.06499 46.7204 0.906982 59.7164 0.906982 74.5342C0.906982 85.7488 2.76999 95.9512 6.49399 105.182C10.219 114.413 15.401 122.388 22.081 129.069C28.761 135.749 36.656 140.89 45.765 144.534C54.875 148.178 64.834 150 75.644 150C86.454 150 96.373 148.178 105.523 144.534C114.672 140.89 122.527 135.749 129.207 129.069C135.887 122.388 141.069 114.413 144.794 105.182C148.519 95.9512 150.381 85.7893 150.381 74.7366C150.381 59.8783 147.183 46.8824 140.745 35.6678H140.624Z" fill="black" style="transform: translateX(-155px)"/>
+                                            <path class="logo-home-path-2" d="M263.38 35.6683C256.983 24.4537 248.157 15.7492 236.983 9.55491C225.768 3.36057 212.813 0.243164 198.076 0.243164C183.339 0.243164 170.789 3.36057 159.534 9.55491C148.278 15.7492 139.453 24.4537 133.137 35.5873C126.78 46.7209 123.623 59.7169 123.623 74.5347C123.623 85.7493 125.485 95.9517 129.21 105.182C132.934 114.413 138.117 122.389 144.797 129.069C151.477 135.749 159.372 140.891 168.481 144.535C177.59 148.178 187.55 150 198.359 150C209.169 150 219.088 148.178 228.238 144.535C237.388 140.891 245.242 135.749 251.922 129.069C258.602 122.389 263.785 114.413 267.509 105.182C271.234 95.9517 273.096 85.7897 273.096 74.7371C273.096 59.8788 269.898 46.8828 263.461 35.6683H263.38Z" fill="black" style="transform: translateX(-273px)"/>
+                                            <path class="logo-home-path-3" d="M362.53 35.6683C356.134 24.4537 347.308 15.7492 336.134 9.55491C324.919 3.36057 311.964 0.243164 297.267 0.243164C285.445 0.243164 274.676 2.34843 265 6.51847V143.361C265.891 143.765 266.7 144.211 267.632 144.535C276.741 148.178 286.7 150 297.51 150C308.32 150 318.239 148.178 327.389 144.535C336.538 140.891 344.393 135.749 351.073 129.069C357.753 122.389 362.935 114.413 366.66 105.182C370.385 95.9517 372.247 85.7897 372.247 74.7371C372.247 59.8788 369.049 46.8828 362.611 35.6683H362.53Z" fill="black" style="transform: translateX(-500px)"/>
+                                        </clipPath>
+                                    </svg>
+                                </div>
+                            </div>
+                        </div>
+
+
+                        
+                        <div class="absolute top-0 left-0 w-full flex justify-center items-center h-[4rem] pt-[0.5rem] hd:pt-[0.1rem] px-10">
+                            <h1 class="body-10 md:body-12 text-secondary font-medium uppercase text-center">A customized terminology system for IT news readers</h1>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer></footer>
+    <script src="{% static 'bundle.js' %}"></script>
+    <script id="app/0-js-before">
+        ( () => {
+            "use strict";
+            var r, e = {}, o = {};
+            function t(r) {
+                var a = o[r];
+                if (void 0 !== a)
+                    return a.exports;
+                var n = o[r] = {
+                    exports: {}
+                };
+                return e[r].call(n.exports, n, n.exports, t),
+                n.exports
+            }
+            t.m = e,
+            r = [],
+            t.O = (e, o, a, n) => {
+                if (!o) {
+                    var s = 1 / 0;
+                    for (i = 0; i < r.length; i++) {
+                        o = r[i][0],
+                        a = r[i][1],
+                        n = r[i][2];
+                        for (var l = !0, u = 0; u < o.length; u++)
+                            (!1 & n || s >= n) && Object.keys(t.O).every((r => t.O[r](o[u]))) ? o.splice(u--, 1) : (l = !1,
+                            n < s && (s = n));
+                        if (l) {
+                            r.splice(i--, 1);
+                            var f = a();
+                            void 0 !== f && (e = f)
+                        }
+                    }
+                    return e
+                }
+                n = n || 0;
+                for (var i = r.length; i > 0 && r[i - 1][2] > n; i--)
+                    r[i] = r[i - 1];
+                r[i] = [o, a, n]
+            }
+            ,
+            t.n = r => {
+                var e = r && r.__esModule ? () => r.default : () => r;
+                return t.d(e, {
+                    a: e
+                }),
+                e
+            }
+            ,
+            t.d = (r, e) => {
+                for (var o in e)
+                    t.o(e, o) && !t.o(r, o) && Object.defineProperty(r, o, {
+                        enumerable: !0,
+                        get: e[o]
+                    })
+            }
+            ,
+            t.o = (r, e) => Object.prototype.hasOwnProperty.call(r, e),
+            ( () => {
+                var r = {
+                    666: 0
+                };
+                t.O.j = e => 0 === r[e];
+                var e = (e, o) => {
+                    var a, n, s = o[0], l = o[1], u = o[2], f = 0;
+                    if (s.some((e => 0 !== r[e]))) {
+                        for (a in l)
+                            t.o(l, a) && (t.m[a] = l[a]);
+                        if (u)
+                            var i = u(t)
+                    }
+                    for (e && e(o); f < s.length; f++)
+                        n = s[f],
+                        t.o(r, n) && r[n] && r[n][0](),
+                        r[n] = 0;
+                    return t.O(i)
+                }
+                  , o = self.webpackChunk_roots_bud_sage_sage = self.webpackChunk_roots_bud_sage_sage || [];
+                o.forEach(e.bind(null, 0)),
+                o.push = e.bind(null, o.push.bind(o))
+            }
+            )()
+        }
+        )();
+    </script>
+    <script src="https://mooders.net/wp-content/themes/beaucoup/public/js/app.a40498.js" id="app/0-js"></script>
+  </body>
+</html>
